@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+main {
+    display: flex;
+    gap: 2rem;
+    margin-top: 7%;
+    height: 100vh;
+}

@@ -1,0 +1,34 @@
+
+.aside-container {
+   max-width: 59rem;
+   border-radius: 9px;
+   
+    background-color: #171717;
+    color: #f5f5f4;
+    padding: 50px 60px;
+ 
+  }
+  .aside-container h2 {
+    font-size: 24px;
+  }
+  #btn {
+    margin-top: 2rem;
+    font-size: 14px;
+   max-width:30rem;
+   color: white;
+  padding: 10px;
+  border-radius: 6px;
+   background-color: #44403c;
+   opacity: 1;
+   
+  }
+#btn:hover {
+  background-color: #4b5563;
+  color: #f5f5f5;
+ }
+  @media (min-width:768px) {
+    #btn {
+      font-size: 16px;
+    }
+  }
+  
