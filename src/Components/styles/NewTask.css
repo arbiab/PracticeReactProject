@@ -1,0 +1,19 @@
+div .newtask-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1rem;
+  
+}
+.newtask-wrapper input {
+    max-width: 16rem;
+    padding: 8px 8px;
+    border-radius: 2px;
+}
+.newtask-wrapper button {
+    color: rgb(68, 64, 60);
+ 
+}
+.newtask-wrapper button:hover {
+    color: rgb(28, 25, 23);
+}
